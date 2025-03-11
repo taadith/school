@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.hl": "html",
+        "vector": "cpp"
+    }
+}

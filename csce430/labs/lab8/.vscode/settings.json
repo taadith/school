@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.hl": "html",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "vector": "cpp"
+    }
+}
